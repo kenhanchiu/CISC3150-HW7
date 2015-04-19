@@ -1,0 +1,658 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 AndaleMono;}
+{\colortbl;\red255\green255\blue255;\red47\green255\blue18;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \cb0 \CocoaLigature0 Kens-MBP:HW7 KenChiu$ javac Tree.java\
+Kens-MBP:HW7 KenChiu$ java Tree\
++---.DS_Store\
++---.project\
++---CISC 3150 MIDTERM NOTES.docx\
+|		\
++---.DS_Store\
+|		\
+|		\
++---COMMIT_EDITMSG\
++---config\
++---description\
++---FETCH_HEAD\
++---HEAD\
+|		\
++---applypatch-msg.sample\
++---commit-msg.sample\
++---post-update.sample\
++---pre-applypatch.sample\
++---pre-commit.sample\
++---pre-push.sample\
++---pre-rebase.sample\
++---prepare-commit-msg.sample\
++---update.sample\
++---index\
+|		\
++---exclude\
+|		\
++---HEAD\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
+|		\
+|		\
++---9afc99850e1808b5869ad1cc66bf2d209b4908\
+|		\
++---3d4301d436a514fc52aa831ff0fc068714b237\
+|		\
++---302a57963df862e7999e2700b48bec310beee3\
+|		\
++---1542b3c94199053ccdae90c944b2c46d828c15\
+|		\
++---4b717585e00db86575901d421c6d45f102b6d5\
++---718ca2d4a602b1049f6ca3b933b598fa68a043\
++---ecb7fb4d7f7aeaea523293edaa6d15448c5351\
+|		\
++---84d947010a9e77b0c61090d0ace94eb04665e8\
+|		\
++---030d1e55a9c1bf95c1b7972d7ea68f5a44ac6f\
+|		\
++---166b3305ec6f32c2d4efb6122594b59ab04f7a\
+|		\
++---e707de740e5dc004db60bcaa697ff8682904af\
+|		\
++---73eadd2b39af6c5f8fc52963d7dd1cc9851768\
+|		\
++---16c43fff137e4c1d0eb63e2dcaaa6215e95234\
++---27418c6d39c52b35073ed08b13c40b77a1a40f\
+|		\
++---a2a27e9aeb0a6122d36594d9d581108df92e79\
+|		\
++---835d2e1871c4587d21e9dd18a2dabfed7a461b\
+|		\
++---6bf85e48fe57d963537b823d90b5d569a69699\
+|		\
++---aa05faa57e10134a9d84d184dfe4be8c8db286\
+|		\
++---0b94393e17a54ed0c897232230e906f91de838\
+|		\
++---cb4a22327070e25e61762f8afb270835819a3e\
+|		\
++---4cef65865d6976e8f111cf1f691ba2d298021e\
+|		\
++---be85ba63d9c58211f4e9ee7437d06dfb4fc59d\
+|		\
++---e2c8fee9c40e695409b39fb779d49eee66dd5e\
+|		\
++---f044c9cb4b5cdcbdc0855f9148a7db2318c7da\
+|		\
++---2473e76bfb0078a89f7d36593cd7e53991d0f8\
+|		\
++---72b44b5a913554e825a3bf4c413cf20bc3abc4\
+|		\
++---d85c00f4db3d22a5ef1c0f7b66b89413f1dcfe\
+|		\
++---47f51f7e2afd7d071b213f6173e6f0f0a41247\
+|		\
++---f02fb6a49ff367d962be321ed5dc47b62e5ab9\
+|		\
++---f5b49d1996c5c75a9e4c375f23bdcca83c20ac\
+|		\
++---05ae44ba5f08df310c953925444c294ff4c28b\
+|		\
++---4c1a611f84a7c46d20658c546b571fa2baa644\
+|		\
++---7c982be5d7cee717d5440e2b4ec76acbb58a81\
+|		\
++---491781563bda833e74ba3de4c87abe374f0140\
+|		\
++---8dfcf0d8aae3b209153cab0075b409d4b35674\
++---b49183ffb1367a423e6c01480ebb4d879d4aeb\
+|		\
++---08ddfcf53c02e82d7eee2e57c38e5672ef89f6\
++---91dddf0cbb5edea05b56aba895052c1657bac8\
+|		\
++---40c3a17018a5915d1e50d1c24cdd87f8f3e80d\
+|		\
++---1d4b0650004f45149bb937e5ac68796f806e23\
+|		\
++---73f7480763d4a2eeb4c98527b59328cbae3610\
+|		\
++---b316e59eb9605e1feb8f2bb393504e56df9016\
+|		\
++---7565be664f2e44d5fd577753195052f155fca0\
++---8a1149657e24373dea24c278d008fbdfa5aec4\
+|		\
++---15cd192143e759336d218b9d29c68cf5d63388\
+|		\
++---78d3c12dbebb4bf6185abbc57f6f9141d3bdad\
+|		\
++---2834d14b6e47b17d872504e50cbb42982128bc\
+|		\
++---bf419918d68af1510738a6a72114f352986f3e\
+|		\
++---3ac252edf6bac573a978360dc274bde5ae3fcf\
+|		\
++---8eb34beaf35ab1b8077eeeffd2e574c8a16c28\
+|		\
++---01a3d72d3df7ac998101f6229ffeaa6c0648d0\
++---377db260569df9c0bdd0ca54066a21a144cd10\
+|		\
++---3b12b020e77ea347fe5966e3828416ae13706f\
+|		\
++---b5fb3da9770cdce43f6d75c2affbf162d79a69\
+|		\
++---a9b647c1d0648786e60e4cef183754ff6cdc84\
+|		\
++---2f743c100b95393cc527cda42635a1207250f8\
+|		\
++---3a10174ed5af78621cf2069b6d32e89a7ddbe7\
+|		\
++---82ae0065596498f76b95f3ee5d5d84724f2332\
+|		\
++---3e2c8a25b06bba7405fff0e1596e3619799ce2\
++---cfcf071e372816e06e59e28af3ad63af1ccd24\
+|		\
++---4aed2143b783c0215d2e9671858b0b90fe3db2\
+|		\
++---5962d7515d0e7798b48ad80574545cd6d292cc\
+|		\
++---3a8d38ebcd2a2b5618e02fc5596c37fc1802e5\
++---59b0f9506e55b9c80ddfc1bc8dbc5425ac3784\
+|		\
++---d3cb9b678faceadf1a998ef465c5cc8e3df76b\
+|		\
++---c4c077284507ee5558e8612921925a7bfad315\
+|		\
++---2a3a02159c5245182163b4047be03c97d5a8b4\
++---b91044f984521b257bfd891de33a0516a50a4a\
+|		\
++---af1028ca7b5757a6ebae687dd743cbcdad51f2\
+|		\
++---a61926dc47d4f562b76c1e634492a03182962f\
+|		\
++---1e5faf006f0495281ab16de805062e55f4b2bc\
+|		\
++---714c3d970e714b9f10f51283434a8c4ab79dc7\
+|		\
++---2f392195eba4e4da12dbb18ad141c8ed50df43\
+|		\
++---c44d90ecbccde640d121bc3a2522072c9f27a5\
+|		\
++---434d752cc4efa7ea1f6435c272d39e96e02307\
+|		\
++---5ee5c13ebd5a718a047cd2ff7de219222ea706\
+|		\
++---354f3073e58625c9c903e139c779953fe32962\
++---ffa9f0f50587b4f761540651c2928cb66e3331\
+|		\
++---6ad70f0200231bbc42b436b08739f33be0a033\
+|		\
++---d3d92ff8a39b60d9fd9107cebd6201b8387a51\
+|		\
++---448525cd0a204f197725caaf3c226962f93c80\
++---dad0e6f72180f2b739a886bf600670ac897b06\
+|		\
++---727e96f1dfd99f2f6b00802cd065ef80fdcf6c\
+|		\
++---3160b40e6f2da4ec8418e6b19b21903781b568\
+|		\
++---0d2673e1c6ddd61d2e3e2044a4d0be8b43e27b\
+|		\
++---f68bf558170a673b9571c26e56c60234ec80e6\
+|		\
++---31aaa839c7054b10e24d6da66bb00ee53dc634\
++---f1198ed6ff86b0125c1bd3238611f7bcf65ac9\
+|		\
++---80b3037e90245e225b123d122cd0bbfdec4f61\
+|		\
++---6c97b70c6882f28432b65c54abb62c4b5feea1\
+|		\
++---b4ca05872d66d746d7c3292943533104b8af67\
+|		\
+|		\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
+|		\
+|		\
++---CircleAreas.class\
++---CircleAreas.java\
++---Question2txt.txt\
+|		\
++---Question1txt.txt\
+|		\
++---.DS_Store\
+|		\
+|		\
++---COMMIT_EDITMSG\
++---config\
++---description\
++---HEAD\
+|		\
++---applypatch-msg.sample\
++---commit-msg.sample\
++---post-update.sample\
++---pre-applypatch.sample\
++---pre-commit.sample\
++---pre-push.sample\
++---pre-rebase.sample\
++---prepare-commit-msg.sample\
++---update.sample\
++---index\
+|		\
++---exclude\
+|		\
++---HEAD\
+|		\
+|		\
++---master\
+|		\
+|		\
++---fd8076523b9cdf24fcf5d1a95520fee2346036\
+|		\
++---08ddfcf53c02e82d7eee2e57c38e5672ef89f6\
+|		\
++---517c00e20b0d7c42254b6cc1f65a86500f1f5f\
+|		\
++---68b624cf814de7418c7668fad2854dc17dd917\
+|		\
++---8b227fb82363c19ebd12129adb1bb39bc6240c\
+|		\
+|		\
+|		\
+|		\
++---master\
+|		\
+|		\
++---FutureInvestment.class\
++---FutureInvestment.java\
++---Question3txt.txt\
+|		\
++---Month.class\
++---Month.java\
++---Question4txt.txt\
+|		\
++---Lottery.class\
++---Lottery.java\
++---Question5txt.txt\
+|		\
++---.DS_Store\
++---Number.txt\
++---Question6txt.txt\
++---Read.class\
++---Read.java\
+|		\
++---Question7txt.txt\
++---Triangle.class\
++---Triangle.java\
+|		\
++---Circle.class\
++---Circle.java\
++---Question8txt.txt\
+|		\
+|		\
+|		\
++---config\
++---description\
++---HEAD\
+|		\
++---applypatch-msg.sample\
++---commit-msg.sample\
++---post-update.sample\
++---pre-applypatch.sample\
++---pre-commit.sample\
++---pre-push.sample\
++---pre-rebase.sample\
++---prepare-commit-msg.sample\
++---update.sample\
+|		\
++---exclude\
+|		\
+|		\
+|		\
+|		\
+|		\
+|		\
++---Guessing.class\
++---Guessing.java\
++---Question9txt.txt\
+|		\
++---.DS_Store\
+|		\
+|		\
++---COMMIT_EDITMSG\
++---config\
++---description\
++---HEAD\
+|		\
++---applypatch-msg.sample\
++---commit-msg.sample\
++---post-update.sample\
++---pre-applypatch.sample\
++---pre-commit.sample\
++---pre-push.sample\
++---pre-rebase.sample\
++---prepare-commit-msg.sample\
++---update.sample\
++---index\
+|		\
++---exclude\
+|		\
++---HEAD\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
+|		\
++---504407b5c7de04f257076cfe4cc7b3b35d7a94\
+|		\
++---9704293c4bd14d5aac3b175a18c4bf8b801d20\
+|		\
++---0074fa035c8e5f5cd02bd8ae8d2630fb7405ef\
+|		\
++---d98383739dfa353090c53286aeccb1eff792bd\
+|		\
++---ae1b4b69885440bafbdd4983c7a8a8cfdb548b\
+|		\
++---c9cd0c20e8bc59e03247b9ef7f557df97d04d3\
+|		\
++---3b92fb2ce1d8704ddcbfd875507a16f84f6fea\
+|		\
++---4e4a1d4076f1f72ad64acbf16ca4b82b8daabf\
+|		\
++---863ae828d935e85eba8a3f2e180e05c1c50e4d\
+|		\
++---39313d82ac03f3d85e00d01a1e6b37ac275a4e\
+|		\
++---542ffa18e79f37b4d05957690a225cc6cada69\
+|		\
++---f59a75c4590713198cc52bcfc479ee3ea20551\
+|		\
++---fdb8ddb951c69dbe7a887585ccdbba7190bc6c\
+|		\
++---f45d1fa55b44e4d17684ed4e7ffa1b4d51c6f6\
+|		\
++---db20f06a2bf2aaa204fdefb9d738e24cbc69c1\
+|		\
++---50cbefc0a9181ccb654d7cbb0dba3a5c743f62\
+|		\
++---ac4cf49e59881561bc572c3ef5018746f5ff87\
+|		\
++---f01a3820f6f27261c78e9259fcc0ea2424f7ff\
+|		\
++---80eb19c5909af7a1d61988367b418d6f40f6ef\
+|		\
+|		\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
+|		\
++---Pyramid.class\
++---Pyramid.java\
++---Question1txt.txt\
+|		\
++---Calendar.class\
++---Calendar.java\
++---Question2txt.txt\
+|		\
++---.DS_Store\
+|		\
+|		\
++---COMMIT_EDITMSG\
++---config\
++---description\
++---HEAD\
+|		\
++---applypatch-msg.sample\
++---commit-msg.sample\
++---post-update.sample\
++---pre-applypatch.sample\
++---pre-commit.sample\
++---pre-push.sample\
++---pre-rebase.sample\
++---prepare-commit-msg.sample\
++---update.sample\
++---index\
+|		\
++---exclude\
+|		\
++---HEAD\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
+|		\
++---f771889b0bf38c8fabb01263a8a8b3286f9b41\
+|		\
++---599577e79d8315c264468f65f6d22762bc1328\
+|		\
++---addda0b157a6172b46b233c2a42dc9384e2ed0\
+|		\
++---94a933d581aceab0c324a88e7b4e6d1b17bc88\
+|		\
++---08ddfcf53c02e82d7eee2e57c38e5672ef89f6\
+|		\
++---94a66990be66b75eabd7f99c9b5954d67e09ec\
+|		\
++---55583c6eec3f2f0dfc15cc4976b1a803d85528\
+|		\
++---3e740e8d281f22f497492a7d2d64b3f78312a0\
+|		\
+|		\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
++---Chess.class\
++---Chess.java\
++---Chesstxt.txt\
+|		\
++---.DS_Store\
+|		\
+|		\
++---COMMIT_EDITMSG\
++---config\
++---description\
++---HEAD\
+|		\
++---applypatch-msg.sample\
++---commit-msg.sample\
++---post-update.sample\
++---pre-applypatch.sample\
++---pre-commit.sample\
++---pre-push.sample\
++---pre-rebase.sample\
++---prepare-commit-msg.sample\
++---update.sample\
++---index\
+|		\
++---exclude\
+|		\
++---HEAD\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
+|		\
++---4842b08b84209cb4d59d30b963a52c5b802945\
+|		\
++---08ddfcf53c02e82d7eee2e57c38e5672ef89f6\
+|		\
++---2d7e6ae2a268d0123ed48b84030ad31f45ff60\
+|		\
++---63a2acc0dba0af705a4827f5dfa67f14c86969\
+|		\
++---9a70386f06e53dd9f304b04cbd31cdfdc6f730\
+|		\
++---e8cc5c0368db4d29ce1ab6997502efb7caff22\
+|		\
+|		\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
++---MyString.class\
++---MyString.java\
++---MyStringtxt.txt\
+|		\
++---Cat.class\
++---Cat.java\
++---Dog.class\
++---Dog.java\
+|		\
++---.DS_Store\
+|		\
+|		\
++---COMMIT_EDITMSG\
++---config\
++---description\
++---FETCH_HEAD\
++---HEAD\
+|		\
++---applypatch-msg.sample\
++---commit-msg.sample\
++---post-update.sample\
++---pre-applypatch.sample\
++---pre-commit.sample\
++---pre-push.sample\
++---pre-rebase.sample\
++---prepare-commit-msg.sample\
++---update.sample\
++---index\
+|		\
++---exclude\
+|		\
++---HEAD\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
+|		\
++---9596eba8195871fb75ba156b950eb57dd0b3a7\
+|		\
++---fe1b5fe78f21953ac9bb68895a4379caf65a52\
+|		\
++---aa6ad47f9c78952921afd046970783e114ff28\
+|		\
++---08ddfcf53c02e82d7eee2e57c38e5672ef89f6\
+|		\
++---921ab9633ee4fb90077f337f66df2e6f93e081\
+|		\
++---f7759e89a3422c3f8080630c19b974bfd08215\
+|		\
++---67b174df925c6b7f1b24cbcd77ab14a8f243e3\
+|		\
++---79b89a3629803b94684bf825d525405f55169e\
+|		\
++---6da4eb211827f622d70c2cd2f737c52a1a0eaa\
+|		\
++---0e7b1695878e5fe4ac91b2105f13e826e828a5\
+|		\
++---0af28b6c1ee5ddaf2f1ed1588f8dec23e45fcb\
+|		\
++---e982c228391927e99aa5898ac1802caa7e14cf\
+|		\
++---b2f04ea9b27471149017ca6362b0afc6a9eaa3\
+|		\
++---3e48651f3b930816ffd6fcb4a89e6ed7d15b41\
+|		\
++---7e24b909a6a83aff26c19977a00477645e69e1\
+|		\
++---51ff2d30db8cfadcc7c6ead15895e865e5a428\
+|		\
+|		\
++---ORIG_HEAD\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
++---HW5.txt\
++---Pet.class\
++---Pet.java\
+|		\
+|		\
+|		\
++---COMMIT_EDITMSG\
++---config\
++---description\
++---HEAD\
+|		\
++---applypatch-msg.sample\
++---commit-msg.sample\
++---post-update.sample\
++---pre-applypatch.sample\
++---pre-commit.sample\
++---pre-push.sample\
++---pre-rebase.sample\
++---prepare-commit-msg.sample\
++---update.sample\
++---index\
+|		\
++---exclude\
+|		\
++---HEAD\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
+|		\
++---ed0476d597911491486d9510e20534c4906f4e\
+|		\
++---3ac86699a5e1a4d0a0afdc46af1833367c17cb\
+|		\
++---109e5622f13c7598fa14c4e4ebfe91ce7bc62e\
+|		\
++---bbb80c1a22e01bde1b3c840a2b85d9c2a2a927\
+|		\
++---6597c1095c38e9fd299a1a5ab898182521184d\
+|		\
+|		\
+|		\
+|		\
++---master\
+|		\
+|		\
++---master\
+|		\
++---Calculator.class\
++---Calculator.java\
++---Calculatortxt.txt\
+|		\
++---.DS_Store\
++---Tree.class\
++---Tree.java\
+}
